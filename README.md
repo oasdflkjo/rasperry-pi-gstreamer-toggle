@@ -1,0 +1,1 @@
+Simple rasperry toggle script to lanuch and kill gstreamer.
