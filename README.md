@@ -1,1 +1,1 @@
-Simple rasperry toggle script to lanuch and kill gstreamer.
+Simple rasperry toggle script to launch and kill gstreamer.
